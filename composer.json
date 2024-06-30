@@ -1,0 +1,19 @@
+{
+    "name": "odoswitch/odoswitch",
+    "description": "VoIP Entreprise Cloud",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Odoswitch\\Odoswitch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David NGAMBA",
+            "email": "dng@afritelec.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
